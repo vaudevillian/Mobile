@@ -25,6 +25,7 @@ package
 			Multitouch.inputMode = MultitouchInputMode.TOUCH_POINT;
 			
 			// entry point
+			trace( "test3" );
 			
 			// new to AIR? please read *carefully* the readme.txt files!
 		}
